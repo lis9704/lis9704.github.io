@@ -1,0 +1,15 @@
+field,display_name,browse_link,external_link
+title,Branch,,
+creator,Library System,,
+location,Location,,
+subject,Space,true,
+collection,Type,true,
+description,Description,,
+date,Last Updated,,
+source,Source,,
+identifier,Learn More,,true
+latitude,Latitude,,
+longitude,Longitude,,
+rights,Image Credit,,
+format,Format,,
+rightsstatement,Rights Statement,,true

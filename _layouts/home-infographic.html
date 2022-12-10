@@ -1,0 +1,24 @@
+---
+# Default home page with boxes providing collection stats
+layout: page
+---
+{%- assign items = site.data[site.metadata] -%}
+<div class="row">
+  <div class="col-md-8">
+
+    {% include index/description.html %}
+    {% include index/carousel.html title="Sample Makerspaces" height="300" %}
+  
+  </div>
+  <div class="col-md-4">  
+
+    {% include index/featured-terms.html field="subject" title="Top Makerpaces" btn-color="primary" %}
+
+    {% include index/featured-terms.html field="creator" title="Locations" btn-color="outline-secondary" %}
+
+  </div>
+  <div class="col-md-12">
+
+
+  </div>
+</div>
