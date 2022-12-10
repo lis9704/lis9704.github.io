@@ -7,6 +7,8 @@ permalink: /spacetypes.html
 # a cloud visualization will be added below the content in this file
 cloud-fields: site.data.theme.subjects-fields
 ---
+## Mapped Makerspaces
+Learn more below about the different types of makerspaces found in public libraries. To search for spaces, explore the [Map](/map.html) or [Browse](/spaces.html) by type. View the [Listing](/data.html) for the full directory.
 
 ### General Tips 
 Be aware that each library system will have different equipment, and policies for their makerspaces. __Always look up the policies and rules for the location you wish to visit ahead of times so that you can be well informed.__ 
