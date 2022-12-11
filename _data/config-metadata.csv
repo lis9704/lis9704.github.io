@@ -1,5 +1,5 @@
 field,display_name,browse_link,external_link
-title,Branch,,
+title,Branch,true,
 creator,Library System,true,
 location,Location,,
 subject,Space,true,
